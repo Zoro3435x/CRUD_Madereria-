@@ -24,7 +24,7 @@ El sistema de la maderería permitirá administrar productos de madera y sus cat
 - ♻️ El sistema debe estar disponible y operando el 99% del tiempo.
 
 ## Diagrama
-![Modelo_entidad_relacion](https://github.com/user-attachments/assets/f3b4263d-0552-4094-a840-a5cfb029e75f)
+![Modelo_entidad_relacion]([https://github.com/user-attachments/assets/f3b4263d-0552-4094-a840-a5cfb029e75f](https://github.com/Zoro3435x/CRUD_Madereria-/blob/1fbc1c19e0912df936184c47b6812c9bb3804655/Modelo%20relacional.jpeg))
 
 
 
